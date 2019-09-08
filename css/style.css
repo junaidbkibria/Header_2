@@ -1,0 +1,32 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.Header_2{
+	background-color:#121B2A ;
+	height: 100px;
+	width: 100%;
+	overflow: hidden;
+	box-shadow: 5px 10px;
+
+}
+.wrapper{
+	
+	width: 80%;
+	margin: 0 auto;
+}
+.logo{
+	width: 20%;	
+	float: left;
+	padding: 10px 20px;
+}
+.menu{
+	width:60%;
+	float: right;
+}
+.menu ul li option {
+	float: left;
+	color: white;
+	text-decoration: none;
+	padding: 10px 20px;
+}
